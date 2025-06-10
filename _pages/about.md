@@ -63,7 +63,7 @@ Have a collaboration idea or just want to chat? Shoot me an email—coffee’s o
       <img src="/assets/img/publication_preview/PANDORA.jpg" class="img-fluid rounded z-depth-1" alt="PANDORA preview"/>
     </div>
     <div class="col-sm-7">
-      <h5><a href="https://taco-group.github.io/PANDORA/" target="_blank" class="font-weight-bold">PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing</a></h5>
+      <h5><a href="https://taco-group.github.io/PANDORA/" target="_blank" >PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing</a></h5>
       <p><u>Yanjia Huang</u>, Renjie Li, & Zhengzhong Tu</p>
       <p>arXiv preprint, 2025</p>
       <p>
