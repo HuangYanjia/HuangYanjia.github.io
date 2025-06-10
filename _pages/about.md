@@ -10,19 +10,19 @@ subtitle: >
 profile:
   align: right
   image: image.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mechanical Engineering</p>
     <p>Texas A&amp;M University</p>
     <p>College Station, TX 77840, USA</p>
     <p><a href="mailto:yanjia_0812@tamu.edu">yanjia_0812@tamu.edu</a></p>
 
-news: true  # includes a list of news items 
-<!-- latest_posts: true  # includes a list of the newest posts -->
+news: false  # includes a list of news items 
+<!-- latest_posts: false  # includes a list of the newest posts -->
 selected_papers: true # includes a list of papers marked as "selected={true}" 
 social: true  # includes social icons at the bottom of the page
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -52,5 +52,5 @@ Outside the lab you’ll find me at a piano, on a hiking trail, or cycling.
 
 Have a collaboration idea or just want to chat? Shoot me an email—coffee’s on me.
 
-* Download the full <a href="/assets/pdf/CV_Yanjia_Huang.pdf" target="_blank">curriculum vitae</a>.
+Download the full <a href="/assets/pdf/CV_Yanjia_Huang.pdf" target="_blank">curriculum vitae</a>.
 
