@@ -20,7 +20,7 @@ profile:
 news: false  # includes a list of news items 
 <!-- latest_posts: false  # includes a list of the newest posts -->
 selected_papers: true # includes a list of papers marked as "selected={true}" 
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 announcements:
   enabled: false
   scrollable: true
@@ -38,6 +38,8 @@ My research explores how *vision-language models*, *diffusion policy learning* c
 
 Prior to my graduate studies at Texas A&M, I completed a dual-degree program in Mechanical Engineering at the <a href="http://www.sbcen.usst.edu.cn/" target="_blank">Sino-British College (SBC), USST</a> and <a href="https://www.ljmu.ac.uk/" target="_blank">Liverpool John Moores University (LJMU)</a>, where I also pursued a minor in Physics. My passion for research was ignited during my time as a research assistant with Prof. <a href="http://yanweifu.github.io/" target="_blank">Yanwei Fu</a> at Fudan University and further solidified during my internship at Huawei's Noah's Ark Lab, mentored by <a href="https://xuhangcn.github.io/" target="_blank">Hang Xu</a>.
 
+Get full <a href="/assets/pdf/CV_Yanjia_Huang.pdf" target="_blank">curriculum vitae</a> here.
+
 <!-- Outside the lab you’ll find me at a piano, on a hiking trail, or cycling. -->
 > *“Robots shouldn’t just imitate; they should **imagine**, **reason**, and **plan**.”*
 
@@ -51,5 +53,5 @@ Prior to my graduate studies at Texas A&M, I completed a dual-degree program in 
 
 Have a collaboration idea or just want to chat? Shoot me an email—coffee’s on me.
 
-Download the full <a href="/assets/pdf/CV_Yanjia_Huang.pdf" target="_blank">curriculum vitae</a>.
+
 
