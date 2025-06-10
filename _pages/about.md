@@ -9,8 +9,8 @@ subtitle: >
 
 profile:
   align: right
-  image: yanjia.jpg
-  image_circular: false # crops the image to make it circular
+  image: image.png
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Mechanical Engineering</p>
     <p>Texas A&amp;M University</p>
@@ -52,4 +52,5 @@ Outside the lab you’ll find me at a piano, on a hiking trail, or cycling.
 
 Have a collaboration idea or just want to chat? Shoot me an email—coffee’s on me.
 
+* Download the full <a href="/assets/pdf/CV_Yanjia_Huang.pdf" target="_blank">curriculum vitae</a>.
 

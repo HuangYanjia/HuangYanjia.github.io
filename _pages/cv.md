@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: Curriculum Vitae
-nav: true
+nav: false
 nav_order: 5
 cv_pdf: assets/pdf/CV_Yanjia_Huang.pdf
 description: Curriculum Vitae of Yanjia Huang, focusing on robotics, embodied AI, and planning.
