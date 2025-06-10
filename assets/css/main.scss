@@ -23,3 +23,8 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+/* --- Custom Styles for Publication Previews --- */
+.publications .preview {
+  max-width: 100%; /* Or you can use a specific size like 200px */
+  width: 100%;
+}
