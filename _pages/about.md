@@ -19,7 +19,7 @@ profile:
 
 news: false  # includes a list of news items 
 <!-- latest_posts: false  # includes a list of the newest posts -->
-selected_papers: true # includes a list of papers marked as "selected={true}" 
+selected_papers: false # includes a list of papers marked as "selected={true}" 
 social: false  # includes social icons at the bottom of the page
 announcements:
   enabled: false
@@ -55,4 +55,40 @@ Have a collaboration idea or just want to chat? Shoot me an email—coffee’s o
 
 
 
+### Featured Publications
 
+<div style="margin-bottom: 2rem;">
+  <div class="row">
+    <div class="col-sm-4">
+      <a href="https://taco-group.github.io/PANDORA/" target="_blank">
+        <img src="/assets/img/publication_preview/PANDORA.jpg" class="img-fluid rounded z-depth-1" alt="PANDORA preview"/>
+      </a>
+    </div>
+    <div class="col-sm-8">
+      <h5 class="font-weight-bold">PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing</h5>
+      <p><em>Yanjia Huang, Renjie Li, & Zhengzhong Tu</em></p>
+      <p>arXiv preprint, 2025</p>
+      <p>
+        <a href="https://arxiv.org/abs/2503.14545" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
+        <a href="https://taco-group.github.io/PANDORA/" class="btn btn-sm btn-outline-primary" role="button" target="_blank">Website</a>
+        </p>
+    </div>
+  </div>
+</div>
+<div style="margin-bottom: 2rem;">
+  <div class="row">
+    <div class="col-sm-4">
+      <a href="WEBSITE_OR_PDF_LINK" target="_blank">
+        <img src="/assets/img/publication_preview/VISTA.jpg" class="img-fluid rounded z-depth-1" alt="VISTA preview"/>
+      </a>
+    </div>
+    <div class="col-sm-8">
+      <h5 class="font-weight-bold">VISTA: Generative Visual Imagination for Vision-and-Language Navigation</h5>
+      <p><em>Yanjia Huang, Mingyang Wu, Renjie Li, & Zhengzhong Tu</em></p>
+      <p>arXiv preprint, 2025</p>
+      <p>
+        <a href="https://arxiv.org/abs/2505.07868" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
+        </p>
+    </div>
+  </div>
+</div>
