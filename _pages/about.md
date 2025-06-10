@@ -12,9 +12,9 @@ profile:
   image: yanjia.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Engineering Technology & Industrial Distribution</p>
+    <p>Mechanical Engineering</p>
     <p>Texas A&amp;M University</p>
-    <p>College Station, TX 77843, USA</p>
+    <p>College Station, TX 77840, USA</p>
     <p><a href="mailto:yanjia_0812@tamu.edu">yanjia_0812@tamu.edu</a></p>
 
 news: true  # includes a list of news items 
@@ -27,31 +27,29 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
 
 
-I am **Yanjia Huang**, an M.S. student in Mechanical Engineering at **Texas A&amp;M University**, advised by Prof. Zhengzhong Tu.  
+I am **Yanjia Huang**, an M.S. student in Mechanical Engineering at **Texas A&M University**, where I am a member of the <a href="https://taco-group.github.io/" target="_blank">TACO Group</a> led by Prof. <a href="https://vztu.github.io/" target="_blank">Zhengzhong Tu</a>.
 My research explores how *vision-language models*, *diffusion policy learning* can be woven together to produce robust, long-horizon plans for **embodied agents**—from indoor navigation to dexterous manipulation.
 
-**Recent highlights**
-
-* **VISTA** — a visual-imagination scheduler that asks a diffusion model to “dream ahead” when the agent’s confidence drops.  
-* **PANDORA** — a diffusion controller for robotic piano playing (IROS 2025, under review).
-* **Monte-Carlo Tree Diffusion (MCTD)** — a planner that expands trajectories in latent diffusion space to search over goal-conditioned robot motions.  
-
+Prior to my graduate studies at Texas A&M, I completed a dual-degree program in Mechanical Engineering at the <a href="http://www.sbcen.usst.edu.cn/" target="_blank">Sino-British College (SBC), USST</a> and <a href="https://www.ljmu.ac.uk/" target="_blank">Liverpool John Moores University (LJMU)</a>, where I also pursued a minor in Physics. My passion for research was ignited during my time as a research assistant with Prof. <a href="http://yanweifu.github.io/" target="_blank">Yanwei Fu</a> at Fudan University and further solidified during my internship at Huawei's Noah's Ark Lab, mentored by <a href="https://xuhangcn.github.io/" target="_blank">Hang Xu</a>.
 
 Outside the lab you’ll find me at a piano, on a hiking trail, or cycling.
 
-> *“Robots shouldn’t just react; they should **imagine**, **reason**, and **plan**.”*
+
+**Recent highlights**
+
+* **VISTA** — Developed VISTA, a novel scheduling framework that leverages a diffusion model for "visual imagination," enabling embodied agents to proactively plan and recover from low-confidence states.
+* **PANDORA** — Designed PANDORA, a diffusion-based control policy that generates fine-grained, expressive motor commands for the complex task of robotic piano playing. (IROS 2025, under review)
+* Applied **Monte-Carlo Tree Diffusion (MCTD)** to enhance planning in Vision-Language Agents (VLAs), enabling efficient search over long-horizon, goal-conditioned motions for zero-shot object manipulation.  
+
+
+> *“Robots shouldn’t just imitate; they should **imagine**, **reason**, and **plan**.”*
 
 Have a collaboration idea or just want to chat? Shoot me an email—coffee’s on me.
 
----
 
-Need more details?  
-* Read the full <a href="/cv/">curriculum vitae</a>.  
-* Browse my <a href="/publications/">publications</a>.  
-* Check out the <a href="/projects/">open-source projects</a> & demos.
