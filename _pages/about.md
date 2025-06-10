@@ -57,38 +57,80 @@ Have a collaboration idea or just want to chat? Shoot me an email—coffee’s o
 
 ### Featured Publications
 
-<div style="margin-bottom: 2rem;">
+<div style="margin-bottom: 2.5rem;">
   <div class="row">
-    <div class="col-sm-4">
-      <a href="https://taco-group.github.io/PANDORA/" target="_blank">
-        <img src="/assets/img/publication_preview/PANDORA.jpg" class="img-fluid rounded z-depth-1" alt="PANDORA preview"/>
-      </a>
+    <div class="col-sm-5">
+      <img src="/assets/img/publication_preview/PANDORA.jpg" class="img-fluid rounded z-depth-1" alt="PANDORA preview"/>
     </div>
-    <div class="col-sm-8">
-      <h5 class="font-weight-bold">PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing</h5>
-      <p><em>Yanjia Huang, Renjie Li, & Zhengzhong Tu</em></p>
+    <div class="col-sm-7">
+      <h5><a href="https://taco-group.github.io/PANDORA/" target="_blank" class="font-weight-bold">PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing</a></h5>
+      <p>Yanjia Huang, Renjie Li, & Zhengzhong Tu</p>
       <p>arXiv preprint, 2025</p>
       <p>
         <a href="https://arxiv.org/abs/2503.14545" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
         <a href="https://taco-group.github.io/PANDORA/" class="btn btn-sm btn-outline-primary" role="button" target="_blank">Website</a>
-        </p>
+      </p>
     </div>
   </div>
 </div>
-<div style="margin-bottom: 2rem;">
+<div style="margin-bottom: 2.5rem;">
   <div class="row">
-    <div class="col-sm-4">
-      <a href="WEBSITE_OR_PDF_LINK" target="_blank">
-        <img src="/assets/img/publication_preview/VISTA.jpg" class="img-fluid rounded z-depth-1" alt="VISTA preview"/>
-      </a>
+    <div class="col-sm-5">
+      <img src="/assets/img/publication_preview/VISTA.png" class="img-fluid rounded z-depth-1" alt="VISTA preview"/>
     </div>
-    <div class="col-sm-8">
-      <h5 class="font-weight-bold">VISTA: Generative Visual Imagination for Vision-and-Language Navigation</h5>
-      <p><em>Yanjia Huang, Mingyang Wu, Renjie Li, & Zhengzhong Tu</em></p>
+    <div class="col-sm-7">
+      <h5><a href="https://arxiv.org/abs/2505.07868" target="_blank" class="font-weight-bold">VISTA: Generative Visual Imagination for Vision-and-Language Navigation</a></h5>
+      <p>Yanjia Huang, Mingyang Wu, Renjie Li, & Zhengzhong Tu</p>
       <p>arXiv preprint, 2025</p>
       <p>
         <a href="https://arxiv.org/abs/2505.07868" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
-        </p>
+      </p>
+    </div>
+  </div>
+</div>
+<div style="margin-bottom: 2.5rem;">
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="/assets/img/publication_preview/softrobot.jpg" class="img-fluid rounded z-depth-1" alt="Self-healing Actuator preview"/>
+    </div>
+    <div class="col-sm-7">
+      <h5><a href="https://www.sciencedirect.com/science/article/pii/S1359836821001402" target="_blank" class="font-weight-bold">A self-healing composite actuator for multifunctional soft robot via photo-welding</a></h5>
+      <p>Mingxia Liu, Shu Zhu, Yanjia Huang, Zihui Lin, Weiping Liu, Lili Yang, & Dengteng Ge</p>
+      <p>Composites Part B: Engineering, 2021</p>
+      <p>
+        <a href="https://doi.org/10.1016/j.compositesb.2021.108748" class="btn btn-sm btn-outline-primary" role="button" target="_blank">DOI</a>
+      </p>
+    </div>
+  </div>
+</div>
+<div style="margin-bottom: 2.5rem;">
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="/assets/img/publication_preview/L-ZSON.png" class="img-fluid rounded z-depth-1" alt="L-ZSON preview"/>
+    </div>
+    <div class="col-sm-7">
+      <h5><a href="https://vlt-lzson.github.io/" target="_blank" class="font-weight-bold">Zero-shot Object Navigation with Vision-Language Models Reasoning</a></h5>
+      <p>Congcong Wen, Yisiyuan Huang, Hao Huang, Yanjia Huang, Shuaihang Yuan, Yu Hao, Hui Lin, Yu-Shen Liu, & Yi Fang</p>
+      <p>ICPR, 2024</p>
+      <p>
+        <a href="https://arxiv.org/abs/2410.18570" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
+        <a href="https://vlt-lzson.github.io/" class="btn btn-sm btn-outline-primary" role="button" target="_blank">Website</a>
+      </p>
+    </div>
+  </div>
+</div>
+<div style="margin-bottom: 2.5rem;">
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="/assets/img/publication_preview/MapBench.png" class="img-fluid rounded z-depth-1" alt="MapBench preview"/>
+    </div>
+    <div class="col-sm-7">
+      <h5><a href="https://arxiv.org/abs/2503.14607" target="_blank" class="font-weight-bold">Can Large Vision Language Models Read Maps Like a Human?</a></h5>
+      <p>Shuo Xing, Zezhou Sun, Shuangyu Xie, Kaiyuan Chen, Yanjia Huang, Yuping Wang, Jiachen Li, Dezhen Song, & Zhengzhong Tu</p>
+      <p>arXiv preprint, 2025</p>
+      <p>
+        <a href="https://arxiv.org/abs/2503.14607" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
+      </p>
     </div>
   </div>
 </div>
