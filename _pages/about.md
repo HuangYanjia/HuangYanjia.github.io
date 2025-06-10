@@ -79,7 +79,7 @@ Have a collaboration idea or just want to chat? Shoot me an email—coffee’s o
       <img src="/assets/img/publication_preview/VISTA.png" class="img-fluid rounded z-depth-1" alt="VISTA preview"/>
     </div>
     <div class="col-sm-7">
-      <h5><a href="https://arxiv.org/abs/2505.07868" target="_blank" class="font-weight-bold">VISTA: Generative Visual Imagination for Vision-and-Language Navigation</a></h5>
+      <h5><a href="https://arxiv.org/abs/2505.07868" target="_blank" >VISTA: Generative Visual Imagination for Vision-and-Language Navigation</a></h5>
       <p><u>Yanjia Huang</u>, Mingyang Wu, Renjie Li, & Zhengzhong Tu</p>
       <p>arXiv preprint, 2025</p>
       <p>
@@ -94,7 +94,7 @@ Have a collaboration idea or just want to chat? Shoot me an email—coffee’s o
       <img src="/assets/img/publication_preview/MapBench.png" class="img-fluid rounded z-depth-1" alt="MapBench preview"/>
     </div>
     <div class="col-sm-7">
-      <h5><a href="https://arxiv.org/abs/2503.14607" target="_blank" class="font-weight-bold">Can Large Vision Language Models Read Maps Like a Human?</a></h5>
+      <h5><a href="https://arxiv.org/abs/2503.14607" target="_blank" >Can Large Vision Language Models Read Maps Like a Human?</a></h5>
       <p>Shuo Xing, Zezhou Sun, Shuangyu Xie, Kaiyuan Chen, <u>Yanjia Huang</u>, Yuping Wang, Jiachen Li, Dezhen Song, & Zhengzhong Tu</p>
       <p>arXiv preprint, 2025</p>
       <p>
@@ -109,7 +109,7 @@ Have a collaboration idea or just want to chat? Shoot me an email—coffee’s o
       <img src="/assets/img/publication_preview/L-ZSON.png" class="img-fluid rounded z-depth-1" alt="L-ZSON preview"/>
     </div>
     <div class="col-sm-7">
-      <h5><a href="https://vlt-lzson.github.io/" target="_blank" class="font-weight-bold">Zero-shot Object Navigation with Vision-Language Models Reasoning</a></h5>
+      <h5><a href="https://vlt-lzson.github.io/" target="_blank" >Zero-shot Object Navigation with Vision-Language Models Reasoning</a></h5>
       <p>Congcong Wen, Yisiyuan Huang, <u>Yanjia Huang</u>, Hao Huang, Shuaihang Yuan, Yu Hao, Hui Lin, Yu-Shen Liu, & Yi Fang</p>
       <p>ICPR, 2024</p>
       <p>
@@ -125,7 +125,7 @@ Have a collaboration idea or just want to chat? Shoot me an email—coffee’s o
       <img src="/assets/img/publication_preview/softrobot.jpg" class="img-fluid rounded z-depth-1" alt="Self-healing Actuator preview"/>
     </div>
     <div class="col-sm-7">
-      <h5><a href="https://www.sciencedirect.com/science/article/pii/S1359836821001402" target="_blank" class="font-weight-bold">A self-healing composite actuator for multifunctional soft robot via photo-welding</a></h5>
+      <h5><a href="https://www.sciencedirect.com/science/article/pii/S1359836821001402" target="_blank" >A self-healing composite actuator for multifunctional soft robot via photo-welding</a></h5>
       <p>Mingxia Liu, Shu Zhu, <u>Yanjia Huang</u>, Zihui Lin, Weiping Liu, Lili Yang, & Dengteng Ge</p>
       <p>Composites Part B: Engineering, 2021</p>
       <p>
