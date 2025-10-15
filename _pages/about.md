@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: image.png
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mechanical Engineering</p>
@@ -57,6 +57,21 @@ Have a collaboration idea or just want to chat? Shoot me an email—coffee’s o
 
 ### Featured Publications
 
+<div style="margin-bottom: 2.5rem;">
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="/assets/img/publication_preview/FORGE-Tree.png" class="img-fluid rounded z-depth-1" alt="FORGE-Tree preview"/>
+    </div>
+    <div class="col-sm-7">
+      <h5><a href="https://taco-group.github.io/FORGE-Tree/" target="_blank" >FORGE-Tree: Diffusion-Forcing Tree Search for Long-Horizon Robot Manipulation</a></h5>
+      <p><u>Yanjia Huang</u>, Shuo Liu, Sheng Liu, Qingxiao Xu, Mingyang Wu, Xiangbo Gao, & Zhengzhong Tu</p>
+      <p>ICRA, 2026</p>
+      <p>
+        <a href="https://taco-group.github.io/FORGE-Tree/" class="btn btn-sm btn-outline-primary" role="button" target="_blank">Website</a>
+      </p>
+    </div>
+  </div>
+</div>
 <div style="margin-bottom: 2.5rem;">
   <div class="row">
     <div class="col-sm-5">
