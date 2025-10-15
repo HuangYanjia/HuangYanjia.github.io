@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: headshot.jpg
+  image: headshot_crop.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mechanical Engineering</p>
@@ -34,17 +34,16 @@ latest_posts:
 
 
 I am **Yanjia Huang**, an M.S. student in Mechanical Engineering at **Texas A&M University**, where I am a member of the <a href="https://taco-group.github.io/" target="_blank">TACO Group</a> led by Prof. <a href="https://vztu.github.io/" target="_blank">Zhengzhong Tu</a>.
-My research explores how *vision-language models*, *diffusion policy learning* can be woven together to produce robust, long-horizon plans for **embodied agents**—from indoor navigation to dexterous manipulation.
+My research explores how ***world model***, ***policy learning from videos*** can be woven together to produce robust, long-horizon plans for **Embodied Agents**, from indoor navigation to dexterous manipulation.
 
 Prior to my graduate studies at Texas A&M, I completed a dual-degree program in Mechanical Engineering at the <a href="http://www.sbcen.usst.edu.cn/" target="_blank">Sino-British College (SBC), USST</a> and <a href="https://www.ljmu.ac.uk/" target="_blank">Liverpool John Moores University (LJMU)</a>, where I also pursued a minor in Physics. My passion for research was ignited during my time as a research assistant with Prof. <a href="http://yanweifu.github.io/" target="_blank">Yanwei Fu</a> at <a href="https://www.fudan.edu.cn/en/" target="_blank">Fudan University</a> and at NYU's <a href="https://ai4ce.github.io/" target="_blank">AI4CE Lab</a> (advised by Prof. <a href="https://engineering.nyu.edu/faculty/chen-feng" target="_blank">Chen Feng</a>) and <a href="https://yifang.org/group.html" target="_blank">Multimedia and Visual Computing Lab (MMVC)</a> (advised by Prof. <a href="https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/yi-fang.html" target="_blank">Yi Fang</a>). This passion was further solidified during my internship at <a href="https://www.huawei.com/en/corporate-information/research-development" target="_blank">Huawei's Noah's Ark Lab</a>, mentored by <a href="https://xuhangcn.github.io/" target="_blank">Hang Xu</a>.
 
 Get full <a href="/assets/pdf/CV_Yanjia_Huang.pdf" target="_blank">curriculum vitae</a> here.
 
-Have a collaboration idea or just want to chat? Shoot me an email—coffee’s on me.
-
+Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20YN6F4k" target="_blank">Bach</a>, play piano and guitar, read Oscar Wilde's poetry and the Stoics, and unwind with basketball, cycling, and the occasional daydream.
 
 <!-- Outside the lab you’ll find me at a piano, on a hiking trail, or cycling. -->
-> *“Robots shouldn’t just imitate; they should **imagine**, **reason**, and **plan**.”*
+> *“Robots shouldn’t just imitate; they could **imagine**, **reason**, and **plan**.”*
 
 <!-- **Recent highlights**
 
@@ -65,7 +64,7 @@ Have a collaboration idea or just want to chat? Shoot me an email—coffee’s o
     <div class="col-sm-7">
       <h5><a href="https://taco-group.github.io/FORGE-Tree/" target="_blank" >FORGE-Tree: Diffusion-Forcing Tree Search for Long-Horizon Robot Manipulation</a></h5>
       <p><u>Yanjia Huang</u>, Shuo Liu, Sheng Liu, Qingxiao Xu, Mingyang Wu, Xiangbo Gao, & Zhengzhong Tu</p>
-      <p>ICRA, 2026</p>
+      <p>arxiv preprint, 2025</p>
       <p>
         <a href="https://taco-group.github.io/FORGE-Tree/" class="btn btn-sm btn-outline-primary" role="button" target="_blank">Website</a>
       </p>
@@ -80,7 +79,7 @@ Have a collaboration idea or just want to chat? Shoot me an email—coffee’s o
     <div class="col-sm-7">
       <h5><a href="https://taco-group.github.io/PANDORA/" target="_blank" >PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing</a></h5>
       <p><u>Yanjia Huang</u>, Renjie Li, & Zhengzhong Tu</p>
-      <p>arXiv preprint, 2025</p>
+      <p>NeurIPS 2025 Workshop AI4Music, IROS 2025</p>
       <p>
         <a href="https://arxiv.org/abs/2503.14545" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
         <a href="https://taco-group.github.io/PANDORA/" class="btn btn-sm btn-outline-primary" role="button" target="_blank">Website</a>
