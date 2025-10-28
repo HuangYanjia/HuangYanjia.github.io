@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: headshot_crop.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mechanical Engineering</p>
@@ -64,8 +64,9 @@ Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20Y
     <div class="col-sm-7">
       <h5><a href="https://taco-group.github.io/FORGE-Tree/" target="_blank" >FORGE-Tree: Diffusion-Forcing Tree Search for Long-Horizon Robot Manipulation</a></h5>
       <p><u>Yanjia Huang</u>, Shuo Liu, Sheng Liu, Qingxiao Xu, Mingyang Wu, Xiangbo Gao, & Zhengzhong Tu</p>
-      <p>arxiv preprint, 2025</p>
+      <p>arXiv preprint, 2025</p>
       <p>
+        <a href="https://arxiv.org/abs/2510.21744" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
         <a href="https://taco-group.github.io/FORGE-Tree/" class="btn btn-sm btn-outline-primary" role="button" target="_blank">Website</a>
       </p>
     </div>
