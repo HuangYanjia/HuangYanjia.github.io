@@ -50,12 +50,31 @@ Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20Y
 * **VISTA** — Developed VISTA, a novel scheduling framework that leverages a diffusion model for "visual imagination," enabling embodied agents to proactively plan and recover from low-confidence states.
 * **PANDORA** — Designed PANDORA, a diffusion-based control policy that generates fine-grained, expressive motor commands for the complex task of robotic piano playing. (IROS 2025, under review)
 * Applied **Monte-Carlo Tree Diffusion (MCTD)** to enhance planning in Vision-Language Agents (VLAs), enabling efficient search over long-horizon, goal-conditioned motions for zero-shot object manipulation.   -->
+### News
 
-
+- **Jun 2024** – Graduated with a dual B.Eng. degree in Mechanical Engineering from [Liverpool John Moores University (LJMU)](https://www.ljmu.ac.uk/) and the [Sino-British College (SBC), USST](http://www.sbcen.usst.edu.cn/).
+- **Sep 2024** – Joined the [TACO Group](https://taco-group.github.io/) at Texas A&M University as a graduate research assistant.
+- **NeurIPS AI4Music** – Our paper *PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing* was accepted to the [NeurIPS AI4Music](https://neurips.cc/) workshop.
+- **Nov** – Started a visiting student position at the [AIVC Lab](https://www.math.ucla.edu/aivc/) at UCLA.
 
 
 ### Featured Publications
 
+<div style="margin-bottom: 2.5rem;">
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="/assets/img/publication_preview/VISTAv2.png" class="img-fluid rounded z-depth-1" alt="VISTAv2 preview"/>
+    </div>
+    <div class="col-sm-7">
+      <h5><a href="https://arxiv.org/abs/2512.00041" target="_blank" >VISTAv2: World Imagination for Indoor Vision-and-Language Navigation</a></h5>
+      <p><u>Yanjia Huang</u>, Xianshun Jiang, Xiangbo Gao, Mingyang Wu, & Zhengzhong Tu</p>
+      <p>arXiv preprint, 2025</p>
+      <p>
+        <a href="https://arxiv.org/abs/2512.00041" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
+      </p>
+    </div>
+  </div>
+</div>
 <div style="margin-bottom: 2.5rem;">
   <div class="row">
     <div class="col-sm-5">
