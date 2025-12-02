@@ -55,10 +55,10 @@ Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20Y
 
 ### News
 
-- [06/2024] Graduated with a dual B.Eng. degree in Mechanical Engineering from [Liverpool John Moores University (LJMU)](https://www.ljmu.ac.uk/) and the [Sino-British College (SBC), USST](http://www.sbcen.usst.edu.cn/).
-- [09/2024] Joined the [TACO Group](https://taco-group.github.io/) at Texas A&M University as a graduate research assistant.
-- [03/2025] Our paper *PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing* was accepted to the [NeurIPS AI4Music](https://neurips.cc/) workshop.
 - [11/2025] Started a visiting student position at the [AIVC Lab](https://www.math.ucla.edu/aivc/) at UCLA.
+- [03/2025] Our paper *PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing* was accepted to the [NeurIPS AI4Music](https://neurips.cc/) workshop.
+- [09/2024] Joined the [TACO Group](https://taco-group.github.io/) at Texas A&M University as a graduate research assistant.
+- [06/2024] Graduated with a dual B.Eng. degree in Mechanical Engineering from [Liverpool John Moores University (LJMU)](https://www.ljmu.ac.uk/) and the [Sino-British College (SBC), USST](http://www.sbcen.usst.edu.cn/).
 
 <hr style="margin: 2rem 0;">
 
