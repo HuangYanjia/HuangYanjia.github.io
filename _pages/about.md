@@ -55,7 +55,7 @@ Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20Y
 
 ### News
 
-- [01/2026] 2 papers accepted at ICRA 2026 — congrats to all co-authors! See you in Vienna.
+- [01/2026] 2 papers accepted at ICRA 2026 — thanks to all co-authors! See you in Vienna.
 - [01/2026] Joined [Axis.AI](https://x.com/axisrobotics) to work together on sim2real data challenges.
 - [11/2025] Started a visiting student position at the [AIVC Lab](https://www.math.ucla.edu/aivc/) at UCLA.
 - [03/2025] Our paper *PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing* was accepted to the [NeurIPS AI4Music](https://neurips.cc/) workshop.
