@@ -38,7 +38,7 @@ My research explores how ***world model***, ***policy learning from videos*** ca
 
 Prior to my graduate studies at Texas A&M, I completed a dual-degree program in Mechanical Engineering at the <a href="http://www.sbcen.usst.edu.cn/" target="_blank">Sino-British College (SBC), USST</a> and <a href="https://www.ljmu.ac.uk/" target="_blank">Liverpool John Moores University (LJMU)</a>, where I also pursued a minor in Physics. My passion for research was ignited during my time as a research assistant with Prof. <a href="http://yanweifu.github.io/" target="_blank">Yanwei Fu</a> at <a href="https://www.fudan.edu.cn/en/" target="_blank">Fudan University</a> and at NYU's <a href="https://ai4ce.github.io/" target="_blank">AI4CE Lab</a> (advised by Prof. <a href="https://engineering.nyu.edu/faculty/chen-feng" target="_blank">Chen Feng</a>) and <a href="https://yifang.org/group.html" target="_blank">Multimedia and Visual Computing Lab (MMVC)</a> (advised by Prof. <a href="https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/yi-fang.html" target="_blank">Yi Fang</a>). This passion was further solidified during my internship at <a href="https://www.huawei.com/en/corporate-information/research-development" target="_blank">Huawei's Noah's Ark Lab</a>, mentored by <a href="https://xuhangcn.github.io/" target="_blank">Hang Xu</a>.
 
-Get full <a href="/assets/pdf/CV_Yanjia_Huang.pdf" target="_blank">curriculum vitae</a> here.
+Get full <a href="/assets/pdf/CV_Yanjia.pdf" target="_blank">curriculum vitae</a> here.
 
 Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20YN6F4k" target="_blank">Bach</a>, play piano and guitar, read Oscar Wilde's poetry and the Stoics, and unwind with basketball, cycling, and the occasional daydream.
 
@@ -55,6 +55,8 @@ Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20Y
 
 ### News
 
+- [01/2026] 2 papers accepted at ICRA 2026 — congrats to all co-authors! See you in Vienna.
+- [01/2026] Joined [Axis.AI](https://x.com/axisrobotics) to work together on sim2real data challenges.
 - [11/2025] Started a visiting student position at the [AIVC Lab](https://www.math.ucla.edu/aivc/) at UCLA.
 - [03/2025] Our paper *PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing* was accepted to the [NeurIPS AI4Music](https://neurips.cc/) workshop.
 - [09/2024] Joined the [TACO Group](https://taco-group.github.io/) at Texas A&M University as a graduate research assistant.
@@ -64,6 +66,21 @@ Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20Y
 
 ### Featured Publications
 
+<div style="margin-bottom: 2.5rem;">
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="/assets/img/publication_preview/Learn2Fold.png" class="img-fluid rounded z-depth-1" alt="Learn2Fold preview"/>
+    </div>
+    <div class="col-sm-7">
+      <h5><a href="/assets/img/publication_preview/Learn2Fold.pdf" target="_blank" >Learn2Fold: Structured Origami Generation with World Model Planning</a></h5>
+      <p><u>Yanjia Huang</u>, Yunuo Chen, Ying Jiang, Jinru Han, Zhengzhong Tu, Yin Yang, & Chenfanfu Jiang</p>
+      <p>arXiv preprint, 2026</p>
+      <p>
+        <a href="/assets/img/publication_preview/Learn2Fold.pdf" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
+      </p>
+    </div>
+  </div>
+</div>
 <div style="margin-bottom: 2.5rem;">
   <div class="row">
     <div class="col-sm-5">
@@ -119,7 +136,7 @@ Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20Y
     <div class="col-sm-7">
       <h5><a href="https://arxiv.org/abs/2505.07868" target="_blank" >VISTA: Generative Visual Imagination for Vision-and-Language Navigation</a></h5>
       <p><u>Yanjia Huang</u>, Mingyang Wu, Renjie Li, & Zhengzhong Tu</p>
-      <p>arXiv preprint, 2025</p>
+      <p>ICRA, 2026</p>
       <p>
         <a href="https://arxiv.org/abs/2505.07868" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
       </p>
