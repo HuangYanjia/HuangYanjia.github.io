@@ -55,8 +55,9 @@ Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20Y
 
 ### News
 
+- [06/2026] Our paper *Learn2Fold: Structured Origami Generation with World Model Planning* was accepted to ECCV 2026.
+- [05/2026] Founded something new in Physical AI. More soon.
 - [01/2026] 2 papers accepted at ICRA 2026 — thanks to all co-authors! See you in Vienna.
-- [01/2026] Joined [Axis.AI](https://x.com/axisrobotics) to work on sim2real data challenges.
 - [11/2025] Started a visiting student position at the [AIVC Lab](https://www.math.ucla.edu/aivc/) at UCLA.
 - [03/2025] Our paper *PANDORA: Diffusion Policy Learning for Dexterous Robotic Piano Playing* was accepted to the [NeurIPS AI4Music](https://neurips.cc/) workshop.
 - [09/2024] Joined the [TACO Group](https://taco-group.github.io/) at Texas A&M University as a graduate research assistant.
@@ -74,7 +75,7 @@ Outside of research, I'm fond of <a href="https://www.youtube.com/watch?v=wuY20Y
     <div class="col-sm-7">
       <h5><a href="/assets/img/publication_preview/Learn2Fold.pdf" target="_blank" >Learn2Fold: Structured Origami Generation with World Model Planning</a></h5>
       <p><u>Yanjia Huang</u>, Yunuo Chen, Ying Jiang, Jinru Han, Zhengzhong Tu, Yin Yang, & Chenfanfu Jiang</p>
-      <p>arXiv preprint, 2026</p>
+      <p>ECCV, 2026</p>
       <p>
         <a href="/assets/img/publication_preview/Learn2Fold.pdf" class="btn btn-sm btn-outline-primary" role="button" target="_blank">PDF</a>
       </p>
